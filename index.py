@@ -26,7 +26,7 @@ while True:
     else:
       print("Command not found!")
       print("Opening email app to report issue")
-      webbrowser.open_new("mailto:jacob@bubbluk.ml?subject=SSA%20Issue&body=Command%20"+")
+      webbrowser.open_new("mailto:jacob@bubbluk.ml?subject=SSA%20Issue&body=Command", command ,"Not%20Found")
   
 
 
